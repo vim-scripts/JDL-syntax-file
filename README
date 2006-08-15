@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1636
+
+Simple highlighting plugin.  It highlights most common attributes, operators, a lot of literals and wrong whitespace at the end of the line.
+
+Reference: http://www.infn.it/workload-grid/docs/DataGrid-01-TEN-0102-0_2-Document.pdf
+
